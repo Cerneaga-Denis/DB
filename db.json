@@ -13,86 +13,97 @@
     "name": "Den",
     "surname": "Cerneaga"
   },
-  "todoLists": [
-    {
-      "todos": [
-        {
-          "userId": 1,
+  "ToDoAppDB": {
+    "list": [
+      {
+        "toDolist": {
           "id": 0,
-          "title": "Read an article about React Hooks",
-          "completed": false,
-          "creationTime": 1605279800000
-        },
-        {
-          "userId": 1,
-          "id": 1,
-          "title": "Learn Css animations",
-          "completed": false,
-          "creationTime": 1605279000000
-        },
-        {
-          "userId": 1,
-          "id": 2,
-          "title": "Check e-mail",
-          "completed": true,
-          "creationTime": 1505279876878
-        },
-        {
-          "userId": 1,
-          "id": 3,
-          "title": "Buy a hot-dog",
-          "completed": false,
-          "creationTime": 1405279876878
-        },
-        {
-          "userId": 1,
-          "id": 4,
-          "title": "Call Mom",
-          "completed": false,
-          "creationTime": 1305279876878
+          "title": "Heder 0",
+          "todos": [
+            {
+              "userId": 1,
+              "id": 0,
+              "title": "Read an article about React Hooks",
+              "completed": false,
+              "creationTime": 1605279800000
+            },
+            {
+              "userId": 1,
+              "id": 1,
+              "title": "Learn Css animations",
+              "completed": false,
+              "creationTime": 1605279000000
+            },
+            {
+              "userId": 1,
+              "id": 2,
+              "title": "Check e-mail",
+              "completed": true,
+              "creationTime": 1505279876878
+            },
+            {
+              "userId": 1,
+              "id": 3,
+              "title": "Buy a hot-dog",
+              "completed": false,
+              "creationTime": 1405279876878
+            },
+            {
+              "userId": 1,
+              "id": 4,
+              "title": "Call Mom",
+              "completed": false,
+              "creationTime": 1305279876878
+            }
+          ]
         }
-      ]
-    },
-    {
-      "todos": [
-        {
-          "userId": 1,
-          "id": 0,
-          "title": "Read an article about React Hooks",
-          "completed": false,
-          "creationTime": 1605279800000
-        },
-        {
-          "userId": 1,
+      },
+      {
+        "toDolist": {
           "id": 1,
-          "title": "Learn Css animations",
-          "completed": false,
-          "creationTime": 1605279000000
-        },
-        {
-          "userId": 1,
-          "id": 2,
-          "title": "Check e-mail",
-          "completed": true,
-          "creationTime": 1505279876878
-        },
-        {
-          "userId": 1,
-          "id": 3,
-          "title": "Buy a hot-dog",
-          "completed": false,
-          "creationTime": 1405279876878
-        },
-        {
-          "userId": 1,
-          "id": 4,
-          "title": "Call Mom",
-          "completed": false,
-          "creationTime": 1305279876878
+          "title": "Heder 1",
+          "todos": [
+            {
+              "userId": 1,
+              "id": 0,
+              "title": "Read an article about React Hooks",
+              "completed": false,
+              "creationTime": 1605279800000
+            },
+            {
+              "userId": 1,
+              "id": 1,
+              "title": "Learn Css animations",
+              "completed": false,
+              "creationTime": 1605279000000
+            },
+            {
+              "userId": 1,
+              "id": 2,
+              "title": "Check e-mail",
+              "completed": true,
+              "creationTime": 1505279876878
+            },
+            {
+              "userId": 1,
+              "id": 3,
+              "title": "Buy a hot-dog",
+              "completed": false,
+              "creationTime": 1405279876878
+            },
+            {
+              "userId": 1,
+              "id": 4,
+              "title": "Call Mom",
+              "completed": false,
+              "creationTime": 1305279876878
+            }
+          ]
         }
-      ]
-    }
-  ],
+      }
+    ]
+  },
+
   "users": [
     {
       "id": 1,
