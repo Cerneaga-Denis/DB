@@ -17,83 +17,107 @@
     "toDoList": [
       {
         "id": 0,
-        "title": "Heder 0",
+        "title": "Learn topics",
         "todos": [
           {
-            "userId": 1,
-            "id": 0,
-            "title": "Read an article about React Hooks",
+            "userId": "Cerneaga Denis",
+            "title": "jQuery",
             "completed": false,
             "creationTime": 1605279800000
           },
           {
-            "userId": 1,
-            "id": 1,
-            "title": "Learn Css animations",
+            "userId": "Cerneaga Denis",
+            "title": "React/Redux",
             "completed": false,
             "creationTime": 1605279000000
           },
           {
-            "userId": 1,
-            "id": 2,
-            "title": "Check e-mail",
+            "userId": "Cerneaga Denis",
+            "title": "JSP",
             "completed": true,
             "creationTime": 1505279876878
           },
           {
-            "userId": 1,
-            "id": 3,
-            "title": "Buy a hot-dog",
+            "userId": "Cerneaga Denis",
+            "title": "Template Engine: Mustache",
             "completed": false,
             "creationTime": 1405279876878
           },
           {
-            "userId": 1,
-            "id": 4,
-            "title": "Call Mom",
+            "userId": "Cerneaga Denis",
+            "title": "Module Bundler: Webpack",
+            "completed": false,
+            "creationTime": 1305279876878
+          },
+          {
+            "userId": "Cerneaga Denis",
+            "title": "Styles: SCSS, Styled-components",
+            "completed": false,
+            "creationTime": 1305279876878
+          },
+          {
+            "userId": "Cerneaga Denis",
+            "title": "Testing: Jest/Enzyme/React-testing-library",
             "completed": false,
             "creationTime": 1305279876878
           }
         ]
       },
       {
-        "id": 1,
-        "title": "Heder 1",
+        "title": "Shoping",
         "todos": [
           {
-            "userId": 1,
-            "id": 0,
-            "title": "Read an article about React Hooks",
+            "userId": "Cerneaga Denis",
+            "title": "10 eggs",
             "completed": false,
             "creationTime": 1605279800000
           },
           {
-            "userId": 1,
-            "id": 1,
-            "title": "Learn Css animations",
+            "userId": "Cerneaga Denis",
+            "title": "Bread",
             "completed": false,
             "creationTime": 1605279000000
           },
           {
-            "userId": 1,
-            "id": 2,
-            "title": "Check e-mail",
+            "userId": "Cerneaga Denis",
+            "title": "Butter 250g",
             "completed": true,
             "creationTime": 1505279876878
           },
           {
-            "userId": 1,
-            "id": 3,
-            "title": "Buy a hot-dog",
+            "userId": "Cerneaga Denis",
+            "title": "Sult",
             "completed": false,
             "creationTime": 1405279876878
           },
           {
-            "userId": 1,
-            "id": 4,
-            "title": "Call Mom",
+            "userId": "Cerneaga Denis",
+            "title": "Milk",
             "completed": false,
             "creationTime": 1305279876878
+          }
+        ]
+      },
+      {
+        "title": "Daily Sport",
+        "todos": [
+          {
+            "userId": "Cerneaga Denis",
+            "title": "15 push-ups",
+            "completed": false,
+            "creationTime": 1605279800000
+          },
+          {
+            "userId": "Cerneaga Denis",
+            "title": "10 pull-ups",
+            "completed": false,
+            "creationTime": 1605279000000
+          },
+          {
+            "userId": "Cerneaga Denis",
+            "title": "30 abs exercises",
+            "completed": true,
+            "creationTime": 1505279876878
           }
         ]
       }
